@@ -1,6 +1,7 @@
-<h1 align="center"> Hi there, I'm Mohamed 👋</h1>
+## Hi there, I'm Mohamed 👋
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Mohamed" width ="25%"/></p>
+
+<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Mohamed" width ="25%"/>
 
 ### About Me:
 
@@ -11,7 +12,6 @@
 - 🤓 Always learning new things
 - 💬 Ask me about anything, I am happy to help
 
-<br />
 
 ### Languages and Tools:
 
