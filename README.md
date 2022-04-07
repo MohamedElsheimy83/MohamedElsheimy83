@@ -5,7 +5,7 @@
 
 ### About Me:
 
-- 🌱 I’m currently learning ASP.net core
+- 🌱 I’m currently learning ASP.NET Core
 - 📫 How to reach me: mohamed_elsheimy@yahoo.com
 - 🤔 I’m currently open for: An Intern or a new job opportunity
 - ⚡ Fun fact: I was an accountant before becoming a programmer
