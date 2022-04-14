@@ -1,7 +1,7 @@
 ## Hi there, I'm Mohamed 👋
 
 
-<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Mohamed" width ="25%"/>
+<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="MohamedIsWorking" width ="25%"/>
 
 ### About Me:
 
