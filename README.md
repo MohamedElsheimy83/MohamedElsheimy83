@@ -25,7 +25,6 @@
 <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40px">&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40px">&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40px">&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/php/php-plain.svg" title="php" alt="php" width="40px">&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/dot-net/dot-net-original.svg" title="dot-net" alt="dot-net" width="40px">&nbsp;&nbsp;
 <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/sql.png" title="sql" alt="sql" width="40px">&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" width="40" title="mysql" alt="mysql" width="40px">
