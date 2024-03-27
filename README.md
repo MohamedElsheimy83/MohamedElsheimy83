@@ -5,7 +5,7 @@
 
 ### About Me:
 
-- 🌱 I’m currently learning ASP.NET Core
+- 🌱 I’m currently learning React
 - 📫 How to reach me: mohamed_elsheimy@yahoo.com
 - 🤔 I’m currently open for a new job opportunity
 - ⚡ Fun fact: I was an accountant before becoming a programmer
